@@ -1,0 +1,18 @@
+languages:
+
+  - item: Python
+  - item: C/C++
+  - item: SQL
+
+frameworks:
+  - item: PyTorch
+  - item: TensorFlow
+  - item: Pandas
+
+tools:
+  - item: ArcGIS
+  - item: Matlab
+
+design:
+  - item: Rhinoceros
+  - item: Adobe illustrator

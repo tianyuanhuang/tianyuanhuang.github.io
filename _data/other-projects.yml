@@ -1,0 +1,7 @@
+- name: Solar Decathlon China
+  url: https://www.solardecathlon.gov/international-china.html
+  code: https://www.solardecathlon.gov/international-china.html
+  description: Conducted a research study with teammates on modular design of buildings and solar energy systems in cities. Our Team SCUT-POLITO won 1st place in the Solar Decathlon China 2018 among 22 other teams in the final competition hosted by U.S. Department of Energy and China National Energy Administration.
+  used:
+    - thing: Modular Design
+    - thing: Sustainable Energy
