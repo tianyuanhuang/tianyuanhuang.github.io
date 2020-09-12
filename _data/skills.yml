@@ -3,6 +3,9 @@ languages:
   - item: Python
   - item: C/C++
   - item: SQL
+  - item: GraphQL
+  - item: React.js
+  - item: PHP
 
 frameworks:
   - item: PyTorch
