@@ -1,7 +1,6 @@
 ---
 layout: post
-date: 2016-01-15 07:59:00-0400
+date: 2022-10-25
 inline: true
 ---
-
-A simple inline announcement with Markdown emoji! :sparkles: :smile:
+Our paper **Detecting Neighborhood Gentrification at Scale via Street-level Visual Data** was accepted as a regular paper by [IEEE BigData 2022](https://bigdataieee.org/BigData2022/).

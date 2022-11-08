@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: 2022-9-19
 inline: true
 ---
 
-A simple inline announcement.
+SCHMEAR project was featured on Stanford Human-Centered Artificial Intelligence [News](https://hai.stanford.edu/news/using-satellite-images-scholars-develop-model-quantify-buildings-energy-use).
