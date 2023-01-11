@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2022-10-25
+date: 2022-12-20
 inline: true
 ---
-Our paper **Detecting Neighborhood Gentrification at Scale via Street-level Visual Data** was accepted as a regular paper by [IEEE BigData 2022](https://bigdataieee.org/BigData2022/).
+Our paper **Estimating building energy efficiency from street view imagery, aerial imagery, and land surface temperature data** was accepted by [Applied Energy](https://www.sciencedirect.com/journal/applied-energy).
