@@ -18,7 +18,7 @@ social: true  # includes social icons at the bottom of the page
 
 Hi, I’m Tianyuan Huang (黄天元), a Ph.D. candidate in Civil Engineering with minor in Computer Science at Stanford University, co-advised by [Ram Rajagopal](https://profiles.stanford.edu/ram-rajagopal) and [Jackelyn Hwang](https://profiles.stanford.edu/jackelyn-hwang). Before coming to Stanford, I obtained my B.Eng. degree from South China University of Technology studying Urban Planning and Computer Science.
 
-My research focuses on AI applications for urban sustainablity, particularly applying computer vision and multimodal learning in the geospatial context, and developing data-driven approaches to enable large-scale mapping, monitoring, and modeling of urban systems.
+My research focuses on AI applications for urban sustainability, particularly applying computer vision and multimodal learning in the geospatial context, and developing data-driven approaches to enable large-scale mapping, monitoring, and modeling of urban systems.
 
 <!-- My research focuses on machine learning applications in urban sustainability --- particularly applying **computer vision** in the **spatial-temporal** context, such as measuring and mapping urban change using historical street view and satellite images. -->
 
