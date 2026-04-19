@@ -18,7 +18,7 @@ social: true  # includes social icons at the bottom of the page
 
 Hi, I’m Tianyuan Huang (黄天元), a Software Engineer at [Waymo](https://waymo.com/) on the Perception Scene Understanding team, contributing to the Waymo onboard driver. I received my Ph.D from Stanford University, advised by [Ram Rajagopal](https://profiles.stanford.edu/ram-rajagopal) (Civil Engineering/Electrical Engineering). Before coming to Stanford, I obtained my B.Eng. degree from South China University of Technology studying Urban Planning and Computer Science.
 
-My research uses multimodal learning to understand the **physical world** from **large-scale spatial-temporal data**: street-level imagery, satellite observations, and textual sources that capture how built environments change over time. The goal is to make visible what was previously unmeasurable at scale, and turn those observations into findings that matter for the people and policies they touch.
+My research uses **multimodal learning** to understand the **physical world** from large-scale spatial-temporal data: street-level imagery, satellite observations, and textual sources that capture how built environments change over time. The goal is to make visible what was previously unmeasurable at scale, and turn those observations into findings that matter for the people and policies they touch.
 
 <!-- My research focuses on machine learning applications in urban sustainability --- particularly applying **computer vision** in the **spatial-temporal** context, such as measuring and mapping urban change using historical street view and satellite images. -->
 
