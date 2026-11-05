@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle:  <b>Email:</b> tianyuah [at] stanford [dot] edu
+subtitle:  <b>Email:</b> tianyuah [at] waymo [dot] com
 
 profile:
   align: right
